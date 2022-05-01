@@ -25,7 +25,7 @@ Create a deep learning classification model to predict whether applicants will b
   <img src='https://github.com/juliomeza/Neural_Network_Charity_Analysis/blob/main/screenshot/BestModel.png'>
   <img src='https://github.com/juliomeza/Neural_Network_Charity_Analysis/blob/main/screenshot/Model.png'>
 - I couldn’t achieve the 75% target. I had tried different number of layers, neurons, and activations, but not able to get to the target.
-- Steps to increase the model performance
+- Steps to increase the model performance:
   - I have eliminated the featured 'ASK_AMT'
 
     <img src='https://github.com/juliomeza/Neural_Network_Charity_Analysis/blob/main/screenshot/ask_amt_plot.png'>
