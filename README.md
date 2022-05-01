@@ -24,5 +24,9 @@ Create a deep learning classification model to predict whether applicants will b
 - I have used 3 layers with 84, 69 and 41 neurons on each layer beacuse that is what the Optimizer returned. For the activations, I used a combination of relu and tanh as recomended by the optimizer as well.
   <img src='https://github.com/juliomeza/Neural_Network_Charity_Analysis/blob/main/screenshot/BestModel.png'>
   <img src='https://github.com/juliomeza/Neural_Network_Charity_Analysis/blob/main/screenshot/Model.png'>
+- I wasn't able to achieve the 75% target. I had tried different number of layers, neurons and activations, but not able to get to the target.
+- Steps
+  - d
+  - d
 
 ## Summary
