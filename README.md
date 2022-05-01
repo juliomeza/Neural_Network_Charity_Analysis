@@ -25,8 +25,14 @@ Create a deep learning classification model to predict whether applicants will b
   <img src='https://github.com/juliomeza/Neural_Network_Charity_Analysis/blob/main/screenshot/BestModel.png'>
   <img src='https://github.com/juliomeza/Neural_Network_Charity_Analysis/blob/main/screenshot/Model.png'>
 - I wasn't able to achieve the 75% target. I had tried different number of layers, neurons and activations, but not able to get to the target.
-- Steps
-  - d
-  - d
+- Steps to increase the model performance
+  - I have eliminated the featured 'ASK_AMT'
+    <img src=''>
+  - I have increased the number of layers and neurons
+  - I have used a combination of different activations (relu and tanh)
+  - I have run the optimizer several times to find the optimal model.
 
 ## Summary
+- The model can predict whether applicants will be successful if funded by Alphabet Soup with an accuracy of 72%.
+- Because of the small amount of data, a Random Forest may have a better prediction rate.
+- Eliminating more feautures may help improve the model.
