@@ -22,7 +22,7 @@ Create a deep learning classification model to predict whether applicants will b
 
 ### Compiling, Training and Evaluating the Model
 - I have used 3 layers with 84, 69 and 41 neurons on each layer beacuse that is what the Optimizer returned.
-<img src=''>
-<img src=''>
+<img src='https://github.com/juliomeza/Neural_Network_Charity_Analysis/blob/main/screenshot/BestModel.png'>
+<img src='https://github.com/juliomeza/Neural_Network_Charity_Analysis/blob/main/screenshot/Model.png'>
 
 ## Summary
