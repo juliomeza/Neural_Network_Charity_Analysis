@@ -21,8 +21,8 @@ Create a deep learning classification model to predict whether applicants will b
 - The 'EIN'and 'NAME' are neither target nor features and should be removed from the input data.
 
 ### Compiling, Training and Evaluating the Model
-- I have used 3 layers with 84, 69 and 41 neurons on each layer beacuse that is what the Optimizer returned.
-<img src='https://github.com/juliomeza/Neural_Network_Charity_Analysis/blob/main/screenshot/BestModel.png'>
-<img src='https://github.com/juliomeza/Neural_Network_Charity_Analysis/blob/main/screenshot/Model.png'>
+- I have used 3 layers with 84, 69 and 41 neurons on each layer beacuse that is what the Optimizer returned. For the activations, I used a combination of relu and tanh as recomended by the optimizer as well.
+  <img src='https://github.com/juliomeza/Neural_Network_Charity_Analysis/blob/main/screenshot/BestModel.png'>
+  <img src='https://github.com/juliomeza/Neural_Network_Charity_Analysis/blob/main/screenshot/Model.png'>
 
 ## Summary
