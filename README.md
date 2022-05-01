@@ -21,5 +21,8 @@ Create a deep learning classification model to predict whether applicants will b
 - The 'EIN'and 'NAME' are neither target nor features and should be removed from the input data.
 
 ### Compiling, Training and Evaluating the Model
+- I have used 3 layers with 84, 69 and 41 neurons on each layer beacuse that is what the Optimizer returned.
+<img src=''>
+<img src=''>
 
 ## Summary
